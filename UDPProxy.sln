@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPProxy", "UDPProxy\UDPProxy.csproj", "{2DE2A708-BB7F-49E3-B843-B44567F796B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorREST", "SensorREST\SensorREST.csproj", "{77C937C6-D712-46F7-B296-2D7976EB3296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{9D1E1839-9269-4CA4-A95E-328B4E3499BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE2A708-BB7F-49E3-B843-B44567F796B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE2A708-BB7F-49E3-B843-B44567F796B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE2A708-BB7F-49E3-B843-B44567F796B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE2A708-BB7F-49E3-B843-B44567F796B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C937C6-D712-46F7-B296-2D7976EB3296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C937C6-D712-46F7-B296-2D7976EB3296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C937C6-D712-46F7-B296-2D7976EB3296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C937C6-D712-46F7-B296-2D7976EB3296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1E1839-9269-4CA4-A95E-328B4E3499BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1E1839-9269-4CA4-A95E-328B4E3499BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1E1839-9269-4CA4-A95E-328B4E3499BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1E1839-9269-4CA4-A95E-328B4E3499BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53096DAB-B5C2-4772-9791-8D00533981E8}
+	EndGlobalSection
+EndGlobal
